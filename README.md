@@ -43,7 +43,7 @@ $ mvn test -e
 ```
 ## Developer(s)
 
-*  Madhu
+*  Madhu Latha Seelam
 
 ## Acknowledgments
 
